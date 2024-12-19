@@ -34,7 +34,7 @@ function performTask() {
     
     // Example task: You can replace this with any task you want to perform
      
-    window.location.href = "index.html";
+    window.open("timer2.html", "_blank");
     
     // Additional tasks can be added here
 }
